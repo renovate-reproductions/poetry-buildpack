@@ -28,11 +28,8 @@ category = "dev"
 description = "Rolling backport of unittest.mock for all Pythons"
 name = "mock"
 optional = false
-python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*"
-version = "3.0.5"
-
-[package.dependencies]
-six = "*"
+python-versions = ">=3.6"
+version = "4.0.3"
 
 [[package]]
 category = "dev"
@@ -144,7 +141,7 @@ python-versions = "*"
 version = "0.2.5"
 
 [metadata]
-content-hash = "0f88eab5d73344dd07f3921aeea5a0bb437c3bd4be24de2f552342bee81c0bc7"
+content-hash = "73659a873382a7e0b39956dac76b3b256a3cb78ffa44647fb1661a49b29fe6d1"
 python-versions = ">3.9,<3.11"
 
 [metadata.hashes]
