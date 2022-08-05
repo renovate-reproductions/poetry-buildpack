@@ -124,8 +124,8 @@ category = "main"
 description = "YAML parser and emitter for Python"
 name = "pyyaml"
 optional = false
-python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*, !=3.5.*"
-version = "5.4.1"
+python-versions = ">=3.6"
+version = "6.0"
 
 [[package]]
 category = "dev"
@@ -144,7 +144,7 @@ python-versions = "*"
 version = "0.2.5"
 
 [metadata]
-content-hash = "0f88eab5d73344dd07f3921aeea5a0bb437c3bd4be24de2f552342bee81c0bc7"
+content-hash = "d29fc39c7522f54329623bf188ae3d1fc0eb1d3039f09795ac933b2c57301018"
 python-versions = ">3.9,<3.11"
 
 [metadata.hashes]
