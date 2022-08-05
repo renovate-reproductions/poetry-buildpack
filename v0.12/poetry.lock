@@ -68,7 +68,7 @@ description = "The Pattern Matching for Python you always dreamed of"
 name = "pampy"
 optional = false
 python-versions = ">3.6"
-version = "0.2.1"
+version = "0.3.0"
 
 [[package]]
 category = "dev"
@@ -144,7 +144,7 @@ python-versions = "*"
 version = "0.2.5"
 
 [metadata]
-content-hash = "0f88eab5d73344dd07f3921aeea5a0bb437c3bd4be24de2f552342bee81c0bc7"
+content-hash = "0ea002cc5f56ebd73929311244320fd1bf515dc545cb3393e121fb9de3829558"
 python-versions = ">3.9,<3.11"
 
 [metadata.hashes]
